@@ -1,5 +1,5 @@
 # springboot-sti
-#FROM openshift/base-centos7
+FROM openshift/base-centos7
 
 MAINTAINER Jorge Morales <jmorales@redhat.com>
 
