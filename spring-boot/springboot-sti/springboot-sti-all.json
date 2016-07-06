@@ -63,7 +63,7 @@
             "name": "centos"
          },
          "spec": {
-            "dockerImageRepository": "docker.io/centos:latest"
+            "dockerImageRepository": "library/docker.io/centos:latest"
          }
       },
       {
